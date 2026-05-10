@@ -10,7 +10,7 @@ This project analyzes the Bank Marketing dataset and presents business insights 
 - Target Variable: deposit (yes/no)
 
 ## Tools Used
-- Python (Pandas)
+- Python (Pandas) and my google collab link (https://colab.research.google.com/drive/1qlNzbo7GnbmscVnfKsTf8NcJBRwOHlxb?usp=sharing)
 - Power BI
 - GitHub
 
